@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp3",
+  "version": "1.0.0",
+  "description": "projeto bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "GrazieleBertassi",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^11.1.0"
+  }
+}
